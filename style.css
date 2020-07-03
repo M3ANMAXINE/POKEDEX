@@ -1,0 +1,11 @@
+body{
+    background-image: url(./pokemon-espada-y-escudo-d.jpg);
+    max-width: 100%;
+    height: auto;
+    background-size: cover;
+}
+
+.input{
+
+    text-align: center;
+}
